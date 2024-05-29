@@ -2,7 +2,7 @@
 
 PDF Invoice Generator app example project built using [Refine](https://refine.dev/) and [Ant Design](https://ant.design/).
 
-⭐ **You can view the live demo of the application [here](https://refine-invoicer-8mk7d.ondigitalocean.app/).**
+⭐ **You can view the live demo of the application [here](https://refine-digitalocean-invoicer-vlxq8.ondigitalocean.app/).**
 
 ## Features
 
